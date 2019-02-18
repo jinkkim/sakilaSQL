@@ -1,5 +1,3 @@
-# sakilaSQL
-
 # Homework Assignment
 
 ## Installation Instructions
